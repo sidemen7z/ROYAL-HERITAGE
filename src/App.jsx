@@ -5,6 +5,7 @@ import './App.css';
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [videoLoaded, setVideoLoaded] = useState(false);
   const { scrollYProgress } = useScroll();
   const opacity = useTransform(scrollYProgress, [0, 0.2], [1, 0]);
 
@@ -87,13 +88,21 @@ function App() {
       {/* Hero Section */}
       <section id="home" className="hero">
         <div className="hero-video-container">
+          {!videoLoaded && (
+            <div className="video-loading-placeholder">
+              <div className="loading-spinner"></div>
+              <p className="loading-text">Loading Experience...</p>
+            </div>
+          )}
           <video
             autoPlay
             muted
             loop
             playsInline
-            preload="metadata"
-            className="hero-video"
+            preload="auto"
+            className={`hero-video ${videoLoaded ? 'loaded' : ''}`}
+            onLoadedData={() => setVideoLoaded(true)}
+            onCanPlay={() => setVideoLoaded(true)}
           >
             <source src="/this will be for hero section video.mp4" type="video/mp4" />
           </video>
