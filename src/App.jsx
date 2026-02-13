@@ -268,7 +268,7 @@ function App() {
           </motion.h2>
           <div className="highlights-grid">
             {[
-              'Premium 2 & 3 BHK Residences',
+              'Premium RK, 1 BHK & 2 BHK Residences',
               'Prime Location',
               'Elegant Modern Elevation',
               'Ample Parking Space',
