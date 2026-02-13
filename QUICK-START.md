@@ -29,7 +29,7 @@ Visit: **https://vercel.com**
 
 ✅ Premium luxury design with gold accents
 ✅ Full-width hero video background
-✅ Founder section with Mr. Nassiruddin Khan's profile
+✅ Founder section with Mr. Nasiruddin Khan's profile
 ✅ Project highlights grid
 ✅ Vertical reel-style video showcase
 ✅ Premium enquiry form with WhatsApp integration
@@ -40,7 +40,7 @@ Visit: **https://vercel.com**
 
 ## 📞 Contact Integration
 
-- **Phone:** +91 98509 93992, +91 97666 40007
+- **Phone:** +91 98509 93992, +91 98222 99333
 - **WhatsApp:** Direct integration
 - **Location:** Lane No. 1, Rajendri Nagar, Wadgaon Sheri, Pune 411014
 - **Google Maps:** https://maps.app.goo.gl/WDoxhBznDjGhYq3m8
@@ -84,7 +84,7 @@ Vercel auto-deploys updates!
 
 ## 🆘 Support
 
-**Mr. Nassiruddin Khan**
+**Mr. Nasiruddin Khan**
 - Phone: +91 98509 93992
 - For partnerships and business inquiries
 

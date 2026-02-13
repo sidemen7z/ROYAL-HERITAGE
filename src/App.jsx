@@ -220,7 +220,7 @@ function App() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <img src="/image.png" alt="Mr. Nassiruddin Khan - Founder, Aalay Developers" className="founder-image" />
+              <img src="/image.png" alt="Mr. Nasiruddin Khan - Founder, Aalay Developers" className="founder-image" />
             </motion.div>
             <motion.div
               className="founder-info"
@@ -229,10 +229,10 @@ function App() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              <h3>Mr. Nassiruddin Khan</h3>
+              <h3>Mr. Nasiruddin Khan</h3>
               <p className="founder-title">Founder & Managing Director</p>
               <p className="founder-description">
-                With a vision to redefine luxury living, Mr. Nassiruddin Khan founded Aalay Developers 
+                With a vision to redefine luxury living, Mr. Nasiruddin Khan founded Aalay Developers 
                 to create residential spaces that blend timeless elegance with modern comfort. His commitment 
                 to quality, innovation, and customer satisfaction has established Aalay Developers as a trusted 
                 name in premium real estate.
@@ -374,9 +374,9 @@ function App() {
                   <MessageCircle size={18} />
                   +91 98509 93992
                 </a>
-                <a href="https://wa.me/919766640007" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
+                <a href="https://wa.me/919822299333" target="_blank" rel="noopener noreferrer" className="btn-whatsapp">
                   <MessageCircle size={18} />
-                  +91 97666 40007
+                  +91 98222 99333
                 </a>
               </div>
             </div>
@@ -400,7 +400,7 @@ function App() {
                   <div>
                     <h3>Call Us</h3>
                     <p><a href="tel:+919850993992" className="contact-link">+91 98509 93992</a></p>
-                    <p><a href="tel:+919766640007" className="contact-link">+91 97666 40007</a></p>
+                    <p><a href="tel:+919822299333" className="contact-link">+91 98222 99333</a></p>
                   </div>
                 </div>
                 <div className="contact-item">
@@ -468,7 +468,7 @@ function App() {
             <div className="footer-section">
               <h3>Contact</h3>
               <p><a href="tel:+919850993992" className="footer-link">+91 98509 93992</a></p>
-              <p><a href="tel:+919766640007" className="footer-link">+91 97666 40007</a></p>
+              <p><a href="tel:+919822299333" className="footer-link">+91 98222 99333</a></p>
             </div>
             <div className="footer-section">
               <h3>Location</h3>

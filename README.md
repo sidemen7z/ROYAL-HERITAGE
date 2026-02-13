@@ -136,7 +136,7 @@ The website includes:
 
 For support or inquiries:
 - Phone: +91 98509 93992
-- Phone: +91 97666 40007
+- Phone: +91 98222 99333
 - WhatsApp: Available via floating buttons
 
 ---
