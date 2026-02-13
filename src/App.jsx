@@ -28,7 +28,7 @@ function App() {
     e.preventDefault();
     const name = e.target.name.value;
     const phone = e.target.phone.value;
-    const message = `Hello, I am ${name}. I am interested in Royal Heritage by Alay Developers. Phone: ${phone}. Please share complete details.`;
+    const message = `Hello, I am ${name}. I am interested in Royal Heritage by Aalay Developers. Phone: ${phone}. Please share complete details.`;
     window.open(`https://wa.me/919850993992?text=${encodeURIComponent(message)}`, '_blank');
   };
 
@@ -184,7 +184,7 @@ function App() {
           >
             <h2 className="section-title">About Royal Heritage</h2>
             <p className="about-text">
-              Royal Heritage by Alay Developers is a premium residential development designed for modern families 
+              Royal Heritage by Aalay Developers is a premium residential development designed for modern families 
               seeking elegance, comfort, and connectivity. With thoughtfully planned spaces, refined elevation, 
               and superior construction quality, it delivers a lifestyle beyond expectations.
             </p>
@@ -211,7 +211,7 @@ function App() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-              <img src="/image.png" alt="Mr. Nassiruddin Khan - Founder, Alay Developers" className="founder-image" />
+              <img src="/image.png" alt="Mr. Nassiruddin Khan - Founder, Aalay Developers" className="founder-image" />
             </motion.div>
             <motion.div
               className="founder-info"
@@ -223,9 +223,9 @@ function App() {
               <h3>Mr. Nassiruddin Khan</h3>
               <p className="founder-title">Founder & Managing Director</p>
               <p className="founder-description">
-                With a vision to redefine luxury living, Mr. Nassiruddin Khan founded Alay Developers 
+                With a vision to redefine luxury living, Mr. Nassiruddin Khan founded Aalay Developers 
                 to create residential spaces that blend timeless elegance with modern comfort. His commitment 
-                to quality, innovation, and customer satisfaction has established Alay Developers as a trusted 
+                to quality, innovation, and customer satisfaction has established Aalay Developers as a trusted 
                 name in premium real estate.
               </p>
               <div className="founder-contact">
@@ -452,7 +452,7 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <div className="footer-section">
-              <h3>Alay Developers</h3>
+              <h3>Aalay Developers</h3>
               <p>Royal Heritage</p>
               <p>Luxury Living Redefined</p>
             </div>
@@ -476,7 +476,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2024 Alay Developers. All Rights Reserved.</p>
+            <p>&copy; 2024 Aalay Developers. All Rights Reserved.</p>
           </div>
         </div>
       </footer>

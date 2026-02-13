@@ -115,4 +115,4 @@ For issues, contact:
 
 ---
 
-Built with ❤️ for Alay Developers
+Built with ❤️ for Aalay Developers

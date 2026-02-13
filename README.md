@@ -1,6 +1,6 @@
 # Royal Heritage - Premium Luxury Real Estate Website
 
-A modern, responsive luxury real estate website for Royal Heritage by Alay Developers.
+A modern, responsive luxury real estate website for Royal Heritage by Aalay Developers.
 
 ## Features
 
@@ -141,4 +141,4 @@ For support or inquiries:
 
 ---
 
-Built with ❤️ for Alay Developers
+Built with ❤️ for Aalay Developers
